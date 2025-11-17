@@ -1,6 +1,3 @@
-#Basis to keep
-!requirements.txt
-
 #Basis to ignore
 
 *.txt
@@ -19,3 +16,6 @@ dist/
 .idea/
 
 .env
+
+#Basis to keep
+!requirements.txt
