@@ -1,3 +1,11 @@
+#Basis to keep
+!requirements.txt
+
+#Basis to ignore
+
+*.txt
+Vers/
+
 venv/
 
 __pycache__/
@@ -11,11 +19,3 @@ dist/
 .idea/
 
 .env
-
-#Basis to ignore
-
-*.txt
-Vers/
-
-#Basis to keep
-!requiremets.txt
