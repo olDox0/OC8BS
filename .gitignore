@@ -10,7 +10,7 @@ dist/
 .vscode/
 .idea/
 .env
-.doxoade_cache
+.doxoade_cache/
 
 #Basis to keep
 
