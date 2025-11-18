@@ -1,9 +1,9 @@
 {
-    "report_generated_at_utc": "2025-11-18T18:43:59.866477+00:00",
+    "report_generated_at_utc": "2025-11-18T19:26:53.975296+00:00",
     "doxoade_version": "37.2 Alfa (Hardening)",
     "project_path": "C:\\Users\\olDox222\\Documents\\Meu laptop (1)\\A20251021\\DOSSIER\\Altonomo\\Projetos_E_Programas\\Projeto OC8BS\\OC8BS1\\OC8BS_P",
     "telemetry": {
-        "directory_tree": "./\n    .gitignore\n    0.txt\n    1.txt\n    basis.txt\n    cpu_modules.v\n    requirements.txt\n    system.v\n    .doxoade_cache/\n        check_cache.json\n    Vers/\n        251031Acpu_modules.v\n        251101Acpu_modules.v\n        251102Acpu_modules.v\n        251102Bcpu_modules.v\n        251102Ccpu_modules.v\n        251102Dcpu_modules.v\n        251103Acpu_modules.v\n        251104Acpu_modules.v\n        251104Bcpu_modules.v\n        251110Acpu_modulesCPU.v\n        251110Bcpu_modulesIO.v\n    src/\n        alu.v\n        control_unit.v\n        cpu.v\n        memory.v\n        registers.v\n        top.v",
+        "directory_tree": "./\n    .gitignore\n    0.txt\n    1.txt\n    basis.txt\n    cpu_modules.v\n    doxoade_report.json\n    requirements.txt\n    system.v\n    .doxoade_cache/\n        check_cache.json\n    Vers/\n        251031Acpu_modules.v\n        251101Acpu_modules.v\n        251102Acpu_modules.v\n        251102Bcpu_modules.v\n        251102Ccpu_modules.v\n        251102Dcpu_modules.v\n        251103Acpu_modules.v\n        251104Acpu_modules.v\n        251104Bcpu_modules.v\n        251110Acpu_modulesCPU.v\n        251110Bcpu_modulesIO.v\n    src/\n        alu.v\n        control_unit.v\n        cpu.v\n        memory.v\n        registers.v\n        top.v",
         "filesystem": [
             {
                 "path": ".gitignore",
@@ -41,6 +41,13 @@
                 "encoding": "utf-8"
             },
             {
+                "path": "doxoade_report.json",
+                "size_bytes": 8361,
+                "created_at_utc": "2025-11-18T18:44:00.141277+00:00",
+                "modified_at_utc": "2025-11-18T18:44:00.141277+00:00",
+                "encoding": "ascii"
+            },
+            {
                 "path": "requirements.txt",
                 "size_bytes": 39,
                 "created_at_utc": "2025-11-17T19:19:09.625945+00:00",
@@ -58,7 +65,7 @@
                 "path": ".doxoade_cache/check_cache.json",
                 "size_bytes": 37,
                 "created_at_utc": "2025-11-17T19:45:11.398578+00:00",
-                "modified_at_utc": "2025-11-18T17:41:56.346859+00:00",
+                "modified_at_utc": "2025-11-18T19:25:31.286228+00:00",
                 "encoding": "ascii"
             },
             {

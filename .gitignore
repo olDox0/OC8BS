@@ -2,6 +2,8 @@
 *.txt
 *.py[cod]
 *.egg-info/
+*.bkp
+
 Vers/
 venv/
 __pycache__/
@@ -11,6 +13,9 @@ dist/
 .idea/
 .env
 .doxoade_cache/
+
+#Senciveis
+doxoade_report.json
 
 #Basis to keep
 
