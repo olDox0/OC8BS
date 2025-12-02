@@ -5,6 +5,7 @@ module instruction_decoder(input [7:0] opcode, output logic [2:0] alu_opcode, ou
       8'hA9: {sel_b_from_y, reg_a_load} = 2'b01;
       8'h01: {reg_a_load} = 1'b1;
       8'h4C: {pc_inc, pc_load} = 2'b01;
+	  8'h8D: {reg_a_output_en} = 1'b1;
       default: ; // CORRIGIDO
     endcase
   end
